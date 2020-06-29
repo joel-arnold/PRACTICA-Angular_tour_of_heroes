@@ -20,7 +20,7 @@
 
 .heroes li:hover {
     color: #607D8B;
-    background-color: #DDD;
+    background-color: rgb(89, 0, 255);
     left: .1em;
 }
 
@@ -30,7 +30,7 @@
 }
 
 .heroes li.selected:hover {
-    background-color: #BBD8DC;
+    background-color: #15ff008e;
     color: white;
 }
 
